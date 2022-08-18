@@ -5,5 +5,9 @@
   "EmailUsername": "AutoMailer@example.com",
   "EmailPassword": "emailPassword321",
   "EmailTo": "admins@example.com",
-  "EmailSubject": "Отчёт по группе безопасности"
+  "EmailSubject": "Отчёт по группе безопасности",
+  "AppPath": "D:\\apps\\security-group-mailer",
+  "TaskName": "Security Group Notifications",
+  "TaskUsername": "yourUsername",
+  "TaskPassword": "yourPassword"
 }
