@@ -24,7 +24,23 @@ Note: you should have RSAT installed in your system or run this script in Domain
 * run your PowerShell
 * launch script called: ge-sgInfo.ps1
 
-## How to setup Scheduled Task for send email
+## How to setup?
 
+```
+.\task-install.ps1
+```
 
+## How to uninstall?
+```
+.\task-uninstall.ps1
+```
 
+## How to manual run?
+```
+.\task-run.ps1
+```
+
+## How to get info about task
+```
+.\task-info.ps1
+```
